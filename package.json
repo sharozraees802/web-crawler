@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node main.js",
+    "new": "node clone.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

@@ -30,5 +30,5 @@ app.get('/crawl', async (req, res, next)=>{
 
 app.listen(port, () => {
     console.log(`Example app listening at http://localhost:${port}`);
-    console.log(`click me http://localhost:3000/crawl?website=http://quotes.toscrape.com/`);
+    console.log("click me http://localhost:3000/crawl?website=https://quotes.toscrape.com/");
 })
